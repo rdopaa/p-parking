@@ -4,7 +4,7 @@ P-Parking es una aplicación de escritorio moderna para la operación diaria de 
 Diseñada para trabajar con **rapidez y mínima fricción**, con tarjetas claras, acciones a un clic, modo oscuro por defecto y un flujo de trabajo optimizado tanto para teclado como para mouse.  
 
 ---
-
+https://post.spmailtechn.com/f/a/Y1jcAKr9HlDdbQQLCof3jg~~/AAHBshA~/O7gJGZSayxLnAjdn-lscBtWhTGUcC7YK4qsvNO8kwR1wwHxLzx474ZCpZkTuOLQUkEE5hzW0E0DaJHZVfvfs0AnEQ2EMrF7DReML8vNzSS-cqH-d1JAccCnIgeREAD-bkO-3qxGX2Bnr87eiKc91jLusUK5bTTn5gx--9e7HNRrK8gRwu1yGIBYXlCsGi6IP
 ## ✨ Características principales
 
 ### 🚗 Entrada y salida en 1 clic
